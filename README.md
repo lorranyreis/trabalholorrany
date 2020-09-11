@@ -2,7 +2,7 @@
 
 ## Demonstração
 
-[Acesse a demonstração aqui.](http://guarded-hollows-90344.herokuapp.com/)
+[Acesse a demonstração aqui.](http://mysterious-wave-54728.herokuapp.com/)
 
 ## Descrição
 
